@@ -1,0 +1,8 @@
+Start 
+Aceept User Input - a,b,c
+create variables to hold square of each user input - aSquare,bSquare,cSquare
+create a variable to hold sum of squares - x
+Sum squares
+
+
+

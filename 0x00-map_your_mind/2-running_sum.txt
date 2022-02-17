@@ -1,0 +1,3 @@
+create a variable to accept user input - sum
+use while loop to sum numbers until a number less than 0 is encountered 
+pass the total of the numbers to the variable sum
